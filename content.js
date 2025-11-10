@@ -3,7 +3,7 @@ const manualContent = {
     sections: [
         {
             id: 'boas-vindas',
-            title: '💚 Boas-Vindas',
+            title: 'Boas-Vindas',
             content: `
                 <h2 class="section-title">Seja Muito Bem-Vindo(a)!</h2>
                 <p>Olá! Seja muito bem-vindo(a) à família Apega Desapega Brechó!</p>
@@ -19,22 +19,22 @@ const manualContent = {
         },
         {
             id: 'informacoes-essenciais',
-            title: '📍 Informações Essenciais',
+            title: 'Informações Essenciais',
             content: `
                 <h2 class="section-title">Informações Essenciais</h2>
 
                 <div class="contact-info">
-                    <p><strong>📍 ENDEREÇO</strong></p>
+                    <p><strong>ENDEREÇO</strong></p>
                     <p>Av. Brasil Leste, 185<br>Passo Fundo/RS</p>
                 </div>
 
                 <div class="contact-info">
-                    <p><strong>📞 CONTATOS</strong></p>
+                    <p><strong>CONTATOS</strong></p>
                     <p>WhatsApp: (54) 9.9609-6202</p>
                     <p>Instagram: @apegadesapegars</p>
                 </div>
 
-                <h3 class="section-subtitle">🕐 Horário de Funcionamento</h3>
+                <h3 class="section-subtitle">Horário de Funcionamento</h3>
 
                 <table>
                     <tr>
@@ -59,7 +59,7 @@ const manualContent = {
                 </table>
 
                 <div class="info-box important">
-                    <strong>⏰ PONTUALIDADE</strong><br>
+                    <strong>PONTUALIDADE</strong><br>
                     Chegue 15 minutos antes do horário de abertura:<br>
                     • Manhã: até 09:15<br>
                     • Tarde: até 13:15 (ou 12:45 aos sábados)<br>
@@ -69,7 +69,7 @@ const manualContent = {
         },
         {
             id: 'equipe',
-            title: '👥 Sua Equipe',
+            title: 'Sua Equipe',
             content: `
                 <h2 class="section-title">Conheça Sua Equipe</h2>
 
@@ -81,7 +81,7 @@ const manualContent = {
                     <li><strong>MA (Maria)</strong></li>
                 </ul>
 
-                <h3 class="section-subtitle">📅 Escala de Prioridades</h3>
+                <h3 class="section-subtitle">Escala de Prioridades</h3>
                 <p>Cada funcionária tem uma prioridade diferente a cada dia para equilibrar o trabalho:</p>
 
                 <h4>BRUNA - Escala Semanal:</h4>
@@ -160,7 +160,7 @@ const manualContent = {
         },
         {
             id: 'abertura-loja',
-            title: '🌅 Abertura da Loja',
+            title: 'Abertura da Loja',
             content: `
                 <h2 class="section-title">Checklist de Abertura da Loja</h2>
                 <p><strong>Horário: 09:15 (chegada) | 09:30 (abertura)</strong></p>
@@ -218,7 +218,7 @@ const manualContent = {
         },
         {
             id: 'como-listar',
-            title: '📦 Como Listar Peças',
+            title: 'Como Listar Peças',
             content: `
                 <h2 class="section-title">Como Listar Peças - Processo Completo</h2>
 
@@ -339,7 +339,7 @@ const manualContent = {
         },
         {
             id: 'como-vender',
-            title: '💰 Como Vender',
+            title: 'Como Vender',
             content: `
                 <h2 class="section-title">Processo de Venda - Do Início ao Fim</h2>
 
@@ -445,13 +445,13 @@ const manualContent = {
                     "Prontinho! Aqui estão suas peças. Muito obrigado(a) pela compra e por apoiar a moda sustentável!<br><br>
                     Só para você saber: você tem 7 dias para trocar se não servir ou se não gostar, tá? É só trazer a nota fiscal e a peça sem uso.<br><br>
                     A gente posta novidades todos os dias no nosso Instagram @apegadesapegars. Você já segue a gente?<br><br>
-                    Qualquer coisa, nosso WhatsApp é (54) 9.9609-6202. Volte sempre! 💚"
+                    Qualquer coisa, nosso WhatsApp é (54) 9.9609-6202. Volte sempre!"
                 </div>
             `
         },
         {
             id: 'maquina-cartao',
-            title: '💳 Máquina de Cartão',
+            title: 'Máquina de Cartão',
             content: `
                 <h2 class="section-title">Manual Completo - Máquina de Cartão</h2>
 
@@ -533,7 +533,7 @@ const manualContent = {
         },
         {
             id: 'organizacao',
-            title: '📐 Organização da Loja',
+            title: 'Organização da Loja',
             content: `
                 <h2 class="section-title">Padrão de Organização</h2>
 
@@ -616,7 +616,7 @@ const manualContent = {
         },
         {
             id: 'fechamento-loja',
-            title: '🌙 Fechamento da Loja',
+            title: 'Fechamento da Loja',
             content: `
                 <h2 class="section-title">Checklist de Fechamento</h2>
 
@@ -693,7 +693,7 @@ const manualContent = {
         },
         {
             id: 'politica-trocas',
-            title: '🔄 Política de Trocas',
+            title: 'Política de Trocas',
             content: `
                 <h2 class="section-title">Política de Trocas e Devoluções</h2>
 
@@ -742,7 +742,7 @@ const manualContent = {
         },
         {
             id: 'seguranca',
-            title: '🚨 Segurança e Emergências',
+            title: 'Segurança e Emergências',
             content: `
                 <h2 class="section-title">Segurança e Emergências</h2>
 
@@ -754,7 +754,7 @@ const manualContent = {
                     <p>SAMU: 192</p>
                 </div>
 
-                <h3 class="section-subtitle">🔥 INCÊNDIO</h3>
+                <h3 class="section-subtitle">INCÊNDIO</h3>
                 <ol>
                     <li>Acione alarme de incêndio</li>
                     <li>Ligue 193 (Bombeiros)</li>
@@ -790,7 +790,7 @@ const manualContent = {
                     <strong>NÃO CORRA RISCO NUNCA!</strong>
                 </div>
 
-                <h3 class="section-subtitle">🏥 ACIDENTE/MAL ESTAR</h3>
+                <h3 class="section-subtitle">ACIDENTE/MAL ESTAR</h3>
                 <ul>
                     <li>Telefone emergência: 192 (SAMU)</li>
                     <li>Mantenha pessoa em local seguro</li>
@@ -801,7 +801,7 @@ const manualContent = {
         },
         {
             id: 'redes-sociais',
-            title: '📱 Comunicação e Redes Sociais',
+            title: 'Comunicação e Redes Sociais',
             content: `
                 <h2 class="section-title">Comunicação e Redes Sociais</h2>
 
@@ -812,7 +812,7 @@ const manualContent = {
 
                 <div class="script-box">
                     <strong>Cliente pergunta disponibilidade:</strong><br><br>
-                    "Oi! Tudo bem? Sim, essa peça está disponível! 😊<br>
+                    "Oi! Tudo bem? Sim, essa peça está disponível!<br>
                     É tamanho [X] e custa R$ [valor].<br>
                     Você quer que eu separe para você passar aqui ou prefere que eu mande mais fotos?<br><br>
                     Estamos na Av Brasil Leste, 185<br>
@@ -827,13 +827,13 @@ const manualContent = {
 
                 <div class="script-box">
                     <strong>Peça vendida:</strong><br><br>
-                    "Oi! Infelizmente essa peça acabou de ser vendida 😔<br>
+                    "Oi! Infelizmente essa peça acabou de ser vendida<br>
                     Mas temos outras opções lindas! Quer que eu mostre?"
                 </div>
 
                 <div class="script-box">
                     <strong>Fora de horário:</strong><br><br>
-                    "Oi! Obrigada pela mensagem! Já encerramos o expediente de hoje, mas vou te responder amanhã assim que abrirmos às 9:30, tá? 😊"
+                    "Oi! Obrigada pela mensagem! Já encerramos o expediente de hoje, mas vou te responder amanhã assim que abrirmos às 9:30, tá?"
                 </div>
 
                 <h3 class="section-subtitle">INSTAGRAM</h3>
@@ -875,7 +875,7 @@ const manualContent = {
         },
         {
             id: 'dicas-ouro',
-            title: '⭐ Dicas de Ouro',
+            title: 'Dicas de Ouro',
             content: `
                 <h2 class="section-title">Segredos do Sucesso</h2>
 
@@ -986,7 +986,7 @@ const manualContent = {
         },
         {
             id: 'glossario',
-            title: '📚 Glossário',
+            title: 'Glossário',
             content: `
                 <h2 class="section-title">Vocabulário Essencial</h2>
 
@@ -1072,7 +1072,7 @@ const manualContent = {
         },
         {
             id: 'primeiro-dia',
-            title: '✅ Checklist Primeiro Dia',
+            title: 'Checklist Primeiro Dia',
             content: `
                 <h2 class="section-title">Checklist do Primeiro Dia</h2>
 
@@ -1124,7 +1124,7 @@ const manualContent = {
         },
         {
             id: 'mensagem-final',
-            title: '💚 Mensagem Final',
+            title: 'Mensagem Final',
             content: `
                 <h2 class="section-title">Bem-Vinda à Família!</h2>
 
@@ -1134,12 +1134,12 @@ const manualContent = {
 
                 <h3 class="section-subtitle">NOSSOS VALORES</h3>
                 <ul>
-                    <li>🌱 Sustentabilidade em primeiro lugar</li>
-                    <li>💚 Paixão pelo que fazemos</li>
-                    <li>⭐ Excelência no atendimento</li>
-                    <li>🤝 Trabalho em equipe</li>
-                    <li>📚 Aprendizado contínuo</li>
-                    <li>😊 Gentileza sempre</li>
+                    <li>Sustentabilidade em primeiro lugar</li>
+                    <li>Paixão pelo que fazemos</li>
+                    <li>Excelência no atendimento</li>
+                    <li>Trabalho em equipe</li>
+                    <li>Aprendizado contínuo</li>
+                    <li>Gentileza sempre</li>
                 </ul>
 
                 <div class="info-box success">
@@ -1161,10 +1161,10 @@ const manualContent = {
                 </ul>
 
                 <div class="contact-info">
-                    <p><strong>Bem-vinda à família Apega Desapega! 💚</strong></p>
-                    <p>📍 Av. Brasil Leste, 185 - Passo Fundo/RS</p>
-                    <p>📱 (54) 9.9609-6202</p>
-                    <p>📸 @apegadesapegars</p>
+                    <p><strong>Bem-vinda à família Apega Desapega!</strong></p>
+                    <p>Av. Brasil Leste, 185 - Passo Fundo/RS</p>
+                    <p>(54) 9.9609-6202</p>
+                    <p>@apegadesapegars</p>
                 </div>
             `
         }
